@@ -69,3 +69,22 @@ Available for paid assignments and professional opportunities in:
 **Aynalem Woldargay**
 
 *Open-Source Technology | Translation | Localization | Documentation*
+
+
+**Find Me for Professional Opportunities**
+
+**Available for paid translation, localization, proofreading, and open-source documentation assignments.**
+
+GitHub Portfolio: https://github.com/aynalemwaregay-tech/open-source-contributions
+
+ProZ.com: https://www.proz.com/
+
+Fiverr: https://www.fiverr.com/
+
+Upwork: https://www.upwork.com/
+
+Hosted Weblate: https://hosted.weblate.org/
+
+Professional Website: https://sites.google.com/view/aynalem-woldargay-professional/home
+
+Services: English–Amharic Translation | Localization | Editing | Proofreading | Documentation
